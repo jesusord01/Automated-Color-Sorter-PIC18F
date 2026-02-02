@@ -2,7 +2,7 @@
 
 Este proyecto es un prototipo de automatización industrial diseñado para la clasificación de productos (caramelos) basado en su colorimetría RGB. El sistema utiliza un enfoque de **Sistemas Embebidos (Bare-Metal)** programado en C, gestionando sensores, actuadores y seguridad de acceso sin depender de un sistema operativo.
 
-![Foto de tu máquina clasificadora](link-a-tu-foto.jpg)
+![ClasificadorDeCaramelos.jpg](ClasificadorDeCaramelos.jpg)
 
 ##  Características Técnicas Destacadas
 
